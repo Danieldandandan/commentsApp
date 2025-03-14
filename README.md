@@ -12,6 +12,15 @@
     pip install -r requirements.txt
 ```
 
+- create .env and add you own db information
+
+```txt
+PG_USER = "your username"
+PG_PASSWORD = "your password"
+PG_HOST = "were the data base were hosted" // i.e "localhost:5433"
+
+```
+
 ### Frontend
 
 - Navigate to frontend
